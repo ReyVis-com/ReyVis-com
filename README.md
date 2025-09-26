@@ -13,19 +13,7 @@
   </a>
 </p>
 
-### 🤝 Связаться со мной
 
-<p align="left">
-  <a href="https://t.me/your_telegram_username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ### Операционные системы
 Постепенно осваиваю Linux для дальнейшей разработки на нем.
@@ -45,16 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReyVis-com&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="discordapp.com/users/661144609216397315" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="t.me/CileElectro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
 
 ###
 
@@ -81,6 +59,20 @@
 *   ![PyCharm Community](https://img.shields.io/badge/PyCharm%20Community-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 *   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 *   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+  ### 🤝 Связаться со мной
+
+<p align="left">
+  <a href="https://t.me/CileElectro" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:lukyanov1906@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="discordapp.com/users/661144609216397315">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 <!--
 **ReyVis-com/ReyVis-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
