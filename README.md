@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ссылка_на_ваш_баннер.png" alt="Приветственный баннер"/>
+  <img src="https://media.istockphoto.com/id/1445560184/tr/vekt%C3%B6r/hello-banner-speech-bubble.jpg?s=170667a&w=0&k=20&c=GQ6k8-rG_cMFtnuLAc7Wa1jFikXJyt4VHukJJ014kf0=" alt="Приветственный баннер"/>
 </p>
 
 <!-- Анимированный заголовок -->
