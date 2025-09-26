@@ -22,10 +22,12 @@
     ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows7&logoColor=white)
     ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
+<!--
 ###
 
 <img src="https://raw.githubusercontent.com/ReyVis-com/ReyVis-com/output/snake.svg" alt="Snake animation" />
 
+-->
 ###
 
 <div align="center">
