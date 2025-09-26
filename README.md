@@ -3,13 +3,27 @@
 </p>
 
 <!-- Анимированный заголовок -->
-<h1 align="center">Привет, я [Ваше Имя] 👋</h1>
-<h3 align="center">Full-stack разработчик из России</h3>
+<h1 align="center">Привет, я ReyVis 👋</h1>
+<h3 align="center">Студент IT из России</h3>
 
 <!-- Анимация печатающегося текста (от сервиса GitHub Readme Typing SVG) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=336791&center=true&vCenter=true&width=435&lines=Разрабатываю+веб-сервисы;Люблю+Linux+и+OpenSource;Всегда+учусь+новому" alt="Typing SVG" />
+  </a>
+</p>
+
+### 🤝 Связаться со мной
+
+<p align="left">
+  <a href="https://t.me/your_telegram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin_profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
