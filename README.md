@@ -1,5 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="ссылка_на_ваш_баннер.png" alt="Приветственный баннер"/>
+</p>
 
+<!-- Анимированный заголовок -->
+<h1 align="center">Привет, я [Ваше Имя] 👋</h1>
+<h3 align="center">Full-stack разработчик из России</h3>
+
+<!-- Анимация печатающегося текста (от сервиса GitHub Readme Typing SVG) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=336791&center=true&vCenter=true&width=435&lines=Разрабатываю+веб-сервисы;Люблю+Linux+и+OpenSource;Всегда+учусь+новому" alt="Typing SVG" />
+  </a>
+</p>
 
 ### Операционные системы
 Постепенно осваиваю Linux для дальнейшей разработки на нем.
@@ -52,7 +64,6 @@
 
 *   ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 *   ![pgAdmin4](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-*   ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-663399?style=for-the-badge&logo=mysql&logoColor=white)
 *   ![PyCharm Community](https://img.shields.io/badge/PyCharm%20Community-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 *   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 *   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
