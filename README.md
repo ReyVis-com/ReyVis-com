@@ -47,6 +47,15 @@
 </div>
 
 ###
+### 🖥️ Среды разработки
+Использую современные IDE и инструменты для эффективной разработки и работы с базами данных.
+
+*   ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+*   ![pgAdmin4](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+*   ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-663399?style=for-the-badge&logo=mysql&logoColor=white)
+*   ![PyCharm Community](https://img.shields.io/badge/PyCharm%20Community-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+*   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+*   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <!--
 **ReyVis-com/ReyVis-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
